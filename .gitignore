@@ -86,4 +86,7 @@ documents/
 # API keys and secrets
 *.key
 *.pem
-secrets/
+secrets/*.bin
+*.pt
+*.zip
+*.mp4
